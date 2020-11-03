@@ -4,7 +4,7 @@
 - Lead Security Engineer @Photobox
 - Tech Lead/Security Manager @PrideinLondon
 - @OWASP member
-- @CodeGirl Ambassador
+- @GirlCode Ambassador
 - Tech Advocate
 
 ## &#x270d; Blog & Writing
