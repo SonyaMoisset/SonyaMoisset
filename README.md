@@ -1,14 +1,18 @@
 ### Hi there 👋
 
 😀🌍🇫🇷🌈🦄🍱✈️💻☕️🎧🎬📷🕹️
-- Lead Security Engineer @Photobox
-- Tech Lead/Security Manager @PrideinLondon
-- @OWASP member
-- @GirlCode Ambassador
-- Tech Advocate
+- 🛡️ Lead Security Engineer @Photobox
+- 🦄 Tech Lead/Security Manager @PrideinLondon
+- 💻 Epic Women in Cyber/Tech
+- 🔒 OWASP member
+- 🤘 GirlCode Ambassador
+- 🎤 Public Speaker
 
 ## &#x270d; Blog & Writing
-I'm writing for [FreeCodeCamp](https://www.freecodecamp.org/news/author/sonya/). I also launched an initiative to showcase [Epic Women in Cyber](https://medium.com/epic-women-in-cyber) and [Epic Women in Tech](https://medium.com/epic-women-in-tech)
+I'm writing for [FreeCodeCamp](https://www.freecodecamp.org/news/author/sonya/) on Ethical Hacking - HackTheBox series.  
+I also launched two initiatives to showcase 
+- Epic Women in Cyber [Medium](https://medium.com/epic-women-in-cyber) | [Twitter](https://twitter.com/EpicWomenCyber) | [LinkedIn](https://www.linkedin.com/company/epic-women-in-cyber)
+- Epic Women in Tech [Medium](https://medium.com/epic-women-in-tech) | [Twitter](https://twitter.com/EpicWomenTech) | [LinkedIn](https://www.linkedin.com/company/epic-women-in-tech)
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/SonyaMoisset/SonyaMoisset">
