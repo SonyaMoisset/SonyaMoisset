@@ -3,16 +3,19 @@
 😀🌍🇫🇷🌈🦄🍱✈️💻☕️🎧🎬📷🕹️
 - 🛡️ Lead Security Engineer @Photobox
 - 🦄 Tech Lead/Security Manager @PrideinLondon
-- 💻 Epic Women in Cyber/Tech
+- 💻 Epic Women in Cyber/Tech Initiatives
 - 🔒 OWASP member
 - 🤘 GirlCode Ambassador
 - 🎤 Public Speaker
 
-## &#x270d; Blog & Writing
-I'm writing for [FreeCodeCamp](https://www.freecodecamp.org/news/author/sonya/) on Ethical Hacking - HackTheBox series.  
-I also launched two initiatives to showcase 
+## &#x270d; Initiatives & Writing
+
+I launched two initiatives to showcase 
 - Epic Women in Cyber [Medium](https://medium.com/epic-women-in-cyber) | [Twitter](https://twitter.com/EpicWomenCyber) | [LinkedIn](https://www.linkedin.com/company/epic-women-in-cyber)
 - Epic Women in Tech [Medium](https://medium.com/epic-women-in-tech) | [Twitter](https://twitter.com/EpicWomenTech) | [LinkedIn](https://www.linkedin.com/company/epic-women-in-tech)
+
+I write for [FreeCodeCamp](https://www.freecodecamp.org/news/author/sonya/) on Ethical Hacking - HackTheBox series.  
+- Top Contributor in [2018](https://www.freecodecamp.org/news/announcing-our-freecodecamp-2018-top-contributor-award-winners-861da08a77e1/) | [2019](https://www.freecodecamp.org/news/fcc100-top-contributors-2019/) | [2020](https://www.freecodecamp.org/news/2020-top-contributors/)
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/SonyaMoisset/SonyaMoisset">
