@@ -2,10 +2,11 @@
 
 😀🌍🇫🇷🌈🦄🍱✈️💻☕️🎧🎬📷🕹️
 - 🛡️ Lead Security Engineer @Photobox
-- 🦄 Tech Lead/Security Manager @PrideinLondon
 - 💻 Epic Women in Cyber/Tech Initiatives
-- 🔒 OWASP member
+- 🦄 ex-Tech Lead/Security Manager @PrideinLondon
 - 🤘 GirlCode Ambassador
+- 💪 CapsLock Community Mentor
+- 🔒 OWASP member
 - 🎤 Public Speaker
 
 ## &#x270d; Initiatives & Writing
