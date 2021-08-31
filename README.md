@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 😀🌍🇫🇷🌈🦄🍱✈️💻☕️🎧🎬📷🕹️
-- 🛡️ Lead Security Engineer @Photobox
+- 🛡️ Principal Security Engineer @Photobox
 - 💻 Epic Women in Cyber/Tech Initiatives
 - 🦄 ex-Tech Lead/Security Manager @PrideinLondon
 - 🤘 GirlCode Ambassador
