@@ -9,6 +9,7 @@ I’m a Principal Security Engineer and a lifelong traveler who lived in the Mid
 🦄 ex-Tech Lead/Security Manager @PrideinLondon  
 👩‍🎤 Ambassador at Girlcode  
 🌟 GitHub Star  
+👾 Snyk Ambassador   
 🛡️ Member of OWASP, LLHS and Women in Cloud  
 ✍️ Writer for FreeCodeCamp   
 🎤 Public speaker & Tech advocate  
