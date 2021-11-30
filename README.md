@@ -5,6 +5,7 @@
 I’m a Principal Security Engineer and a lifelong traveler who lived in the Middle-East, North Africa and Asia. Always looking for new challenges - I made a career change from International Business Consultant in 🇹🇳, 🇸🇦 and 🇸🇬 to Full Stack Software Engineer in 🇰🇷 to Principal Security Engineer in the 🇬🇧
 
 💖 Passionate about Open-source, DevSecOps and Cloud Computing  
+⛓️ Passionate about Security in Blockchain, Smart Contracts, DeFi, Web3, Cryptocurrencies & Metaverse  
 💻 Founder of Epic Women in Cyber/Epic Women in Tech  
 🦄 ex-Tech Lead/Security Manager @PrideinLondon  
 👩‍🎤 Ambassador at Girlcode  
