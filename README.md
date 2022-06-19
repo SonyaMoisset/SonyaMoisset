@@ -4,17 +4,17 @@
 
 I’m a Senior Security Advocate and a lifelong traveler who lived in the Middle-East, North Africa and Asia. Always looking for new challenges - I made a career change from International Business Consultant in 🇹🇳, 🇸🇦 and 🇸🇬 to Full Stack Software Engineer in 🇰🇷 to Principal Security Engineer in the 🇬🇧
 
-💖 Passionate about Open-source, DevSecOps and Cloud Computing 
-🌟 GitHub Star
-☁️ OpenUK Ambassador
-🎓 CAPSLOCK & CyberGirls Lead Mentor 
-💻 Founder of Epic Women in Cyber/Epic Women in Tech 
-👩‍🎤 Ambassador at Girlcode 
-✍️ Writer for FreeCodeCamp (Top Contributor 2018, 2019, 2020, 2021) & GitGuardian
-⛓️ Interest in Security in the Blockchain ecosystem
-🛡️ Member of OWASP, LLHS, BBWIC, Women in Cloud, Women in DevOps, Women Techmakers, Women Who Code 
-🎤 Public speaker, Tech advocate & Mentor
-🧠 INTJ-A 
+💖 Passionate about Open-source, DevSecOps and Cloud Computing  
+🌟 GitHub Star  
+☁️ OpenUK Ambassador  
+🎓 CAPSLOCK & CyberGirls Lead Mentor  
+💻 Founder of Epic Women in Cyber/Epic Women in Tech  
+👩‍🎤 Ambassador at Girlcode   
+✍️ Writer for FreeCodeCamp (Top Contributor 2018, 2019, 2020, 2021) & GitGuardian  
+⛓️ Interest in Security in the Blockchain ecosystem  
+🛡️ Member of OWASP, LLHS, BBWIC, Women in Cloud, Women in DevOps, Women Techmakers, Women Who Code   
+🎤 Public speaker, Tech advocate & Mentor  
+🧠 INTJ-A  
 
 #GetSecure, #BeSecure & #StaySecure
 
