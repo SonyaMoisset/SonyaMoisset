@@ -1,6 +1,6 @@
-### 👋 Bonjour!
+<h1 align="center">👋 Bonjour!</h1>
+<h2 align="center">😀🌍🇫🇷🌈🦄🍱✈️💻☕️🎧🎬📷🕹️</h2>
 
-😀🌍🇫🇷🌈🦄🍱✈️💻☕️🎧🎬📷🕹️  
 
 I’m a Senior Security Advocate and a lifelong traveler who lived in the Middle-East, North Africa and Asia. Always looking for new challenges - I made a career change from International Business Consulting in 🇹🇳, 🇸🇦 and 🇸🇬 to Engineering in 🇰🇷 to Cybersecurity in the 🇬🇧. 
 
@@ -30,7 +30,7 @@ I launched two initiatives to showcase
 - Epic Women in Tech [Medium](https://medium.com/epic-women-in-tech) | [Twitter](https://twitter.com/EpicWomenTech) | [LinkedIn](https://www.linkedin.com/company/epic-women-in-tech)
 
 I write for [FreeCodeCamp](https://www.freecodecamp.org/news/author/sonya/) on Ethical Hacking - HackTheBox series.  
-- Top Contributor in [2018](https://www.freecodecamp.org/news/announcing-our-freecodecamp-2018-top-contributor-award-winners-861da08a77e1/) | [2019](https://www.freecodecamp.org/news/fcc100-top-contributors-2019/) | [2020](https://www.freecodecamp.org/news/2020-top-contributors/)
+- Top Contributor in [2018](https://www.freecodecamp.org/news/announcing-our-freecodecamp-2018-top-contributor-award-winners-861da08a77e1/) | [2019](https://www.freecodecamp.org/news/fcc100-top-contributors-2019/) | [2020](https://www.freecodecamp.org/news/2020-top-contributors/) | [2021](https://www.freecodecamp.org/news/2021-top-contributors)
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/SonyaMoisset/SonyaMoisset">
