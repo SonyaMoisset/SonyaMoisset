@@ -2,21 +2,25 @@
 
 😀🌍🇫🇷🌈🦄🍱✈️💻☕️🎧🎬📷🕹️  
 
-I’m a Senior Security Advocate and a lifelong traveler who lived in the Middle-East, North Africa and Asia. Always looking for new challenges - I made a career change from International Business Consultant in 🇹🇳, 🇸🇦 and 🇸🇬 to Full Stack Software Engineer in 🇰🇷 to Principal Security Engineer in the 🇬🇧
+I’m a Senior Security Advocate and a lifelong traveler who lived in the Middle-East, North Africa and Asia. Always looking for new challenges - I made a career change from International Business Consulting in 🇹🇳, 🇸🇦 and 🇸🇬 to Engineering in 🇰🇷 to Cybersecurity in the 🇬🇧. 
 
-💖 Passionate about Open-source, DevSecOps and Cloud Computing  
-🌟 GitHub Star  
+🏆 2022/23 OpenUK Honours List  
+🏆 2022 TechWomen100  
+🏆 Women of Influence - 30 Top Female Cybersecurity Leaders 2022   
+🏆 GirlCode Diversity and Inclusion Power List 2022  
+🏆 Ally of the Year 2021 - People's Choice for Epic Women in Cyber initiative  
+
+💖 Passionate about Open-source, DevSecOps and Cloud Computing   
+🌟 GitHub Star 2021/22/23  
 ☁️ OpenUK Ambassador  
 🎓 CAPSLOCK & CyberGirls Lead Mentor  
-💻 Founder of Epic Women in Cyber/Epic Women in Tech  
+💻 Founder of Epic Women in Cyber/Epic Women in Tech   
 👩‍🎤 Ambassador at Girlcode   
-✍️ Writer for FreeCodeCamp (Top Contributor 2018, 2019, 2020, 2021) & GitGuardian  
-⛓️ Interest in Security in the Blockchain ecosystem  
-🛡️ Member of OWASP, LLHS, BBWIC, Women in Cloud, Women in DevOps, Women Techmakers, Women Who Code   
-🎤 Public speaker, Tech advocate & Mentor  
-🧠 INTJ-A  
-
-#GetSecure, #BeSecure & #StaySecure
+✍️ Writer for FreeCodeCamp (Top Contributor 2018, 2019, 2020, 2021) & GitGuardian   
+⛓️ Interest in Security in Artificial Intelligence/Machine Learning   
+🛡️ Member of OWASP, LLHS, BBWIC, Women in Cloud, Women in DevOps, Women Techmakers, Women Who Code    
+🎤 Public speaker, Tech advocate & Mentor   
+🧠 INTJ-A 
 
 
 ## &#x270d; Initiatives & Writing
