@@ -10,14 +10,14 @@ I’m a Senior Security Advocate and a lifelong traveler who lived in the Middle
 🏆 GirlCode Diversity and Inclusion Power List 2022  
 🏆 Ally of the Year 2021 - People's Choice for Epic Women in Cyber initiative  
 
-💖 Passionate about Open-source, DevSecOps and Cloud Computing   
+💖 Passionate about Open-source, DevSecOps and Cloud Computing  
+🤖 Interest in Security in the AI ecosystem   
 🌟 GitHub Star 2021/22/23  
 ☁️ OpenUK Ambassador  
 🎓 CAPSLOCK & CyberGirls Lead Mentor  
 💻 Founder of Epic Women in Cyber/Epic Women in Tech   
 👩‍🎤 Ambassador at Girlcode   
-✍️ Writer for FreeCodeCamp (Top Contributor 2018, 2019, 2020, 2021) & GitGuardian   
-⛓️ Interest in Security in Artificial Intelligence/Machine Learning   
+✍️ Writer for FreeCodeCamp (Top Contributor 2018, 2019, 2020, 2021, 2023) & GitGuardian     
 🛡️ Member of OWASP, LLHS, BBWIC, Women in Cloud, Women in DevOps, Women Techmakers, Women Who Code    
 🎤 Public speaker, Tech advocate & Mentor   
 🧠 INTJ-A 
