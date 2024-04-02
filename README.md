@@ -2,7 +2,7 @@
 <h2 align="center">😀🌍🇫🇷🌈🦄🍱✈️💻☕️🎧🎬📷🕹️</h2>
 
 
-I’m a Senior Security Advocate and a lifelong traveler who lived in the Middle-East, North Africa and Asia. Always looking for new challenges - I made a career change from International Business Consulting in 🇹🇳, 🇸🇦 and 🇸🇬 to Engineering in 🇰🇷 to Cybersecurity in the 🇬🇧. 
+I’m a Staff Security Advocate and a lifelong traveler who lived in the Middle-East, North Africa and Asia. Always looking for new challenges - I made a career change from International Business Consulting in 🇹🇳, 🇸🇦 and 🇸🇬 to Engineering in 🇰🇷 to Cybersecurity in the 🇬🇧. 
 
 🏆 2022/23 OpenUK Honours List  
 🏆 2022 TechWomen100  
