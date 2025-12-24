@@ -17,7 +17,7 @@ I’m a Staff Security Advocate and a lifelong traveler who lived in the Middle-
 🎓 CAPSLOCK & CyberGirls Lead Mentor  
 💻 Founder of Epic Women in Cyber/Epic Women in Tech   
 👩‍🎤 Ambassador at Girlcode   
-✍️ Writer for FreeCodeCamp (Top Contributor 2018, 2019, 2020, 2021, 2023) & GitGuardian     
+✍️ Writer for FreeCodeCamp (Top Contributor 2018, 2019, 2020, 2021, 2023, 2025) & GitGuardian     
 🛡️ Member of OWASP, LLHS, BBWIC, Women in Cloud, Women in DevOps, Women Techmakers, Women Who Code    
 🎤 Public speaker, Tech advocate & Mentor   
 🧠 INTJ-A 
