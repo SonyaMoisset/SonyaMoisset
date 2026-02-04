@@ -12,7 +12,7 @@ I’m a Staff Security Advocate and a lifelong traveler who lived in the Middle-
 
 💖 Passionate about Open-source, DevSecOps and Cloud Computing  
 🤖 Interest in Security in the AI ecosystem   
-🌟 GitHub Star 2021/22/23/24/25  
+🌟 GitHub Star 2021/22/23/24/25/26  
 ☁️ OpenUK Ambassador  
 🎓 CAPSLOCK & CyberGirls Lead Mentor  
 💻 Founder of Epic Women in Cyber/Epic Women in Tech   
